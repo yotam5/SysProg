@@ -37,7 +37,7 @@
 # *.iml
 # *.ipr
 *.out
-
+*.idea
 # CMake
 cmake-build-*/
 
